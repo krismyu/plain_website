@@ -1,0 +1,15 @@
+body{
+
+    font-family: 'Open Sans', sans-serif;
+}
+
+.grayout {
+    opacity: 0.4; /* Real browsers */
+    filter: alpha(opacity = 40); /* MSIE */
+}
+
+
+bibbase.bibbase_page.link {
+    display: none;
+  }
+  
